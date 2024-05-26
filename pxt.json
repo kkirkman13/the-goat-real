@@ -1,0 +1,48 @@
+{
+    "name": "THE GOAT!!!! real",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "multiplayer": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.51",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#1E1F1F",
+        "#8C7608",
+        "#EB2705",
+        "#FFF609",
+        "#34BC78",
+        "#78DC52",
+        "#0CA61E",
+        "#87F2FF",
+        "#523000",
+        "#E1A90E",
+        "#6D4103",
+        "#E5CDC4",
+        "#86440E",
+        "#000000"
+    ]
+}
